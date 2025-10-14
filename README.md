@@ -8,11 +8,12 @@
 
 ## 📁 Repository Structure
 
-- **[docs/strategy.md](docs/strategy.md)** - Overall career transition strategy and action plan
-- **[docs/positioning.md](docs/positioning.md)** - Personal branding, resumes, interview pitches
-- **[docs/projects.md](docs/projects.md)** - Project ideas and execution tracking
-- **[docs/companies.md](docs/companies.md)** - Target companies analysis and requirements
-- **[docs/branding.md](docs/branding.md)** - Online visibility strategy (LinkedIn, GitHub, blog)
+- **[documents/strategy.md](documents/strategy.md)** - 8-week action plan & role requirements
+- **[documents/positioning.md](documents/positioning.md)** - Resumes, pitches, interview prep
+- **[documents/projects.md](documents/projects.md)** - Portfolio tracking & execution
+- **[documents/companies.md](documents/companies.md)** - Target companies analysis
+- **[documents/branding.md](documents/branding.md)** - Stealth online visibility strategy
+- **[vacancies_ex/](vacancies_ex/)** - Job postings from target companies
 
 ---
 

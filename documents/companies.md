@@ -1,28 +1,62 @@
 # Target Companies Analysis
 
-Analysis of requirements and positioning strategy for target companies.
+Concise analysis of 6 target companies and positioning strategy.
 
 ---
 
-## 🎯 Universal Requirements
+## 🎯 Universal Pattern (All Companies)
 
-All companies (DeepMind, Meta, NVIDIA) want:
-- ✅ PhD in CS/AI/ML or related field
-- ✅ Strong publication record at top venues
-- ✅ Production engineering experience
-- ✅ PyTorch/TensorFlow expertise
-- ✅ LLM/Foundation model experience
-- ✅ Cross-functional collaboration
-- ✅ Independent execution
+**Role Type:** Research Scientist/Engineer (Hybrid)
+- Strong publications + production systems
+- PhD (or near completion)
+- Python + PyTorch expert
+- LLM hands-on experience
+- Open source valued
 
-**Role Type:** Research Scientist / Research Engineer (Hybrid)
-- NOT pure research
-- NOT pure engineering
-- **Sweet spot:** Research + Production Systems
+**You have:** Publications, production systems (425 req/sec), PhD, PyTorch, LLM work  
+**Gap:** Public visibility in LLM community
 
 ---
 
-## 🏢 Company-Specific Analysis
+## 🏢 Company Tiers & Focus
+
+### Tier 1 (Primary Targets - Best Fit)
+
+**1. Anthropic** - AI Safety & Alignment
+- **Focus:** Tool use, agent systems, alignment, RLHF
+- **Your Angle:** AgentEdge + custom evaluation frameworks
+- **Fit:** 95% - Perfect for your agent systems work
+
+**2. NVIDIA** - Inference Optimization
+- **Focus:** LLM evaluation, TensorRT/Triton, HPC
+- **Your Angle:** Triton experience + custom evaluation
+- **Fit:** 90% - Strong Triton background
+
+**3. Meta** - Production ML at Scale
+- **Focus:** Systems, infrastructure, open source
+- **Your Angle:** Production systems + research hybrid
+- **Fit:** 85% - Need more open source contributions
+
+### Tier 2 (Strong Alternatives)
+
+**4. DeepMind** - Fundamental Research
+- **Focus:** Interpretability, controllability, research depth
+- **Your Angle:** Agent systems, human empowerment
+- **Fit:** 80% - More research-heavy
+
+**5. Groq** - Fast Inference
+- **Focus:** Quantization, speculative decoding, optimization
+- **Your Angle:** Production optimization, model compression
+- **Fit:** 75% - Less research, more engineering
+
+**6. HuggingFace** - Open Source ML
+- **Focus:** Transformers, community, open source
+- **Your Angle:** Evaluation tools, contributions
+- **Fit:** 70% - Need stronger open source presence
+
+---
+
+## 📊 Quick Comparison
 
 ### 1. Google DeepMind
 
