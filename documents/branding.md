@@ -14,6 +14,27 @@ Building visibility in the LLM/AI community to attract opportunities at DeepMind
 
 ---
 
+## ⚠️ STEALTH MODE: You're Still Employed
+
+**CRITICAL:** Everything in this strategy must look like professional development, NOT job hunting!
+
+**The Story:**
+- ✅ "I'm expanding my expertise into LLM evaluation and agent systems"
+- ✅ "Working on side projects to deepen my understanding"
+- ✅ "Contributing to open source as part of professional growth"
+- ❌ "Looking for new opportunities"
+- ❌ "Pivoting my career"
+- ❌ "Open to roles at..."
+
+**Frame Everything As:**
+- 🎓 Learning and professional development
+- 🔬 Research interests (PhD student angle)
+- 🛠️ Side projects and hobby coding
+- 📚 Knowledge sharing with community
+- 🤝 Building professional network (not job hunting)
+
+---
+
 ## 📊 Current State Assessment
 
 ### ✅ What You Have
@@ -35,39 +56,72 @@ Building visibility in the LLM/AI community to attract opportunities at DeepMind
 
 **Why:** Direct line to recruiters and hiring managers at target companies.
 
-**Profile Optimization:**
-- [ ] Update headline: "Research Engineer | LLM Systems & Agent Evaluation | PhD Candidate"
-- [ ] Rewrite summary (see positioning.md)
-- [ ] Add Featured section:
-  - Papers (with LLM-focused titles)
-  - Projects (GitHub repos)
-  - Blog posts
-  - Talks/presentations
-- [ ] Update experience bullets (de-emphasize network orchestration)
-- [ ] Add skills: "LLM Evaluation", "Agent Systems", "NVIDIA Triton", "Production ML"
-- [ ] Professional photo + banner (AI/ML themed)
+**Profile Optimization (Subtle Updates):**
+
+⚠️ **STEALTH MODE:** Make changes gradually, not all at once!
+
+- [ ] Update headline (GRADUAL): Keep current company, add expertise
+  - Current: "Agent + ML Engineer at Nearby Computing"
+  - Updated: "Agent + ML Engineer | LLM Systems & Evaluation | PhD Candidate"
+  - ❌ DON'T remove company name or add "Open to opportunities"
+  
+- [ ] Add skills (SAFE): Add new skills without removing old ones
+  - Add: "LLM Evaluation", "Agent Systems", "Production ML Infrastructure"
+  - Keep: Existing skills from current role
+  
+- [ ] Add Featured section (GRADUAL):
+  - Papers (always safe to showcase)
+  - Side projects (GitHub repos - frame as hobby/research)
+  - Blog posts (frame as knowledge sharing)
+  
+- [ ] Update experience bullets (CAREFUL):
+  - ✅ Reframe existing work with LLM terminology
+  - ❌ DON'T change job title or dates
+  - ✅ Credit your current company for achievements
+  
+- [ ] Summary update (OPTIONAL):
+  - ✅ Add a sentence about expanding into LLM evaluation
+  - ❌ DON'T remove mention of current role/company
+  - Frame as "expanding expertise" not "transitioning"
 
 **Content Strategy (2-3 posts/week):**
 
-**Week 1-2:** Establish credibility
-- Post 1: "Why I'm pivoting from network orchestration to LLM systems" (personal story)
-- Post 2: Share first blog post (evaluation project)
-- Post 3: Lessons from building production inference (425 req/sec)
+⚠️ **IMPORTANT:** Frame everything as "professional development" and "expanding expertise" - NOT job hunting!
 
-**Week 3-4:** Show expertise
+**Week 1-2:** Establish credibility (general expertise)
+- Post 1: "Exploring the intersection of production ML and LLM evaluation" (technical interest)
+- Post 2: Share first blog post (evaluation project - frame as side project/research)
+- Post 3: Lessons from building production inference (425 req/sec) - credit your company
+
+**Week 3-4:** Show expertise (educational content)
 - Post 4: "3 things I learned building custom LLM evaluation frameworks"
-- Post 5: Share agent reasoning evaluation tool launch
-- Post 6: Technical insight from papers (reframe for LLM audience)
+- Post 5: Share agent reasoning evaluation tool launch (side project)
+- Post 6: Technical insight from papers (pure technical content)
 
-**Week 5-6:** Build community
+**Week 5-6:** Build community (helpful content)
 - Post 7: "What I wish I knew about LLM inference optimization"
-- Post 8: Behind-the-scenes of MareNostrum 5 HPC work
+- Post 8: Behind-the-scenes of HPC work (keep generic, or credit work)
 - Post 9: Ask community question (spark discussion)
 
-**Week 7-8:** Show momentum
-- Post 10: "Completed 3 LLM projects in 6 weeks - here's what I learned"
-- Post 11: Announce applications/interviews (build social proof)
-- Post 12: Future vision for agent systems
+**Week 7-8:** Show momentum (LOW KEY)
+- Post 10: "Working on LLM evaluation projects in my spare time - here's what I learned"
+- Post 11: ❌ DON'T announce applications! Instead: "Excited about the future of agent systems"
+- Post 12: Technical deep dive or paper summary
+
+**⚠️ AVOID:**
+- ❌ "Looking for opportunities"
+- ❌ "Open to new roles"
+- ❌ "Interviewing at..."
+- ❌ "Last day at..."
+- ❌ Criticizing current work/company
+- ❌ "Pivoting my career"
+
+**✅ SAFE FRAMING:**
+- ✅ "Expanding my expertise in..."
+- ✅ "Side project exploring..."
+- ✅ "Learning about..."
+- ✅ "Interesting work on..."
+- ✅ "Research interests in..."
 
 **Post Format:**
 - Lead with hook (first 2 lines matter)
@@ -76,11 +130,13 @@ Building visibility in the LLM/AI community to attract opportunities at DeepMind
 - Always include call-to-action (comment, share, check link)
 - Tag relevant people/companies (when appropriate)
 
-**Engagement (Daily 15 minutes):**
-- [ ] Comment on posts from target companies
-- [ ] Engage with AI/ML influencers
-- [ ] Answer questions in your domain
-- [ ] Share interesting research/tools
+**Engagement (Daily 15 minutes - Keep it Natural):**
+- [ ] Comment on interesting technical posts (from anyone, not just target companies)
+- [ ] Engage with AI/ML researchers/engineers (genuine interest, not networking)
+- [ ] Answer questions in your domain (build reputation as helpful expert)
+- [ ] Share interesting research/tools (add your perspective)
+
+⚠️ **AVOID:** Obviously networking with specific companies - keep it organic!
 
 ---
 
@@ -328,27 +384,74 @@ Everything you create should fit into one of these:
 
 ---
 
-## 🎯 Company-Specific Engagement
+## 🕵️ Stealth Job Search Strategy
+
+⚠️ **CRITICAL:** You're still employed - everything must look like professional development, not job hunting!
+
+### What's Safe:
+- ✅ Posting technical content about your expertise
+- ✅ Side projects framed as research/hobby
+- ✅ Contributing to open source (always professional)
+- ✅ Writing blog posts (knowledge sharing)
+- ✅ Adding skills to LinkedIn gradually
+- ✅ Engaging with technical community
+- ✅ Showcasing papers and research
+
+### What's Risky:
+- ⚠️ Connecting with LOTS of people at one company suddenly
+- ⚠️ Changing LinkedIn headline dramatically overnight
+- ⚠️ Posting about "new opportunities" or "exciting changes"
+- ⚠️ Asking publicly about jobs at specific companies
+- ⚠️ Updating "Open to Work" status
+- ⚠️ Engaging ONLY with target companies
+
+### When to Apply (Timing Strategy):
+
+**Before Applying (Weeks 1-6):**
+- Build technical visibility (projects, blog posts, contributions)
+- Gradual LinkedIn updates (add skills, featured section)
+- Natural engagement with community
+- No obvious signals of job hunting
+
+**Week 7-8: Start Applications (Discreetly):**
+- Apply directly on company websites (not LinkedIn "Easy Apply")
+- Reach out to recruiters via email/LinkedIn DM (private)
+- Get warm intros through private messages
+- Don't announce applications publicly
+
+**After You Have Offer(s):**
+- Give proper notice to current employer
+- THEN update LinkedIn, announce publicly
+- Thank current company graciously
+
+---
+
+## 🤝 Subtle Company Engagement
+
+**Goal:** Be on their radar without being obvious.
 
 ### DeepMind
-- [ ] Follow team members on LinkedIn
-- [ ] Engage with their blog posts/papers
-- [ ] Comment on their research releases
-- [ ] Share their work with your insights
+- [ ] Follow a few key researchers (not all at once)
+- [ ] Engage with their blog posts/papers (genuine technical comments)
+- [ ] Share their work when relevant to your interests
+- ✅ SAFE: Contributing to their open source, commenting on technical content
+- ❌ RISKY: Mass-connecting with DeepMind employees
 
 ### Meta
-- [ ] Engage with PyTorch announcements
-- [ ] Contribute to Meta open source projects
-- [ ] Comment on FAIR/Meta AI posts
-- [ ] Share Meta engineering blog insights
+- [ ] Contribute to PyTorch (always professional)
+- [ ] Engage with FAIR research releases
+- [ ] Comment on technical Meta AI posts
+- ✅ SAFE: Open source contributions, technical engagement
+- ❌ RISKY: "Love to work here" comments, obvious networking
 
 ### NVIDIA
-- [ ] Follow NVIDIA AI team
-- [ ] Engage with Triton/TensorRT content
-- [ ] Share NVIDIA blog posts
-- [ ] Contribute to NVIDIA open source
+- [ ] Engage with Triton/TensorRT technical content
+- [ ] Contribute to NVIDIA open source repos
+- [ ] Share NVIDIA blog posts with your technical insights
+- ✅ SAFE: Technical contributions, showcasing Triton expertise
+- ❌ RISKY: Tagging NVIDIA in job-seeking posts
 
-**Goal:** Be visible to these companies before you apply
+**Key Principle:** Everything should look like genuine technical interest, not job hunting.
 
 ---
 
@@ -387,11 +490,11 @@ PhD Candidate, AI | Universitat Politècnica de Catalunya
 - [ ] More GitHub contributions
 - [ ] Start networking outreach
 
-### Week 7-8: Solidify Presence
+### Week 7-8: Solidify Presence (Stay Discreet)
 - [ ] Third blog post
-- [ ] Share job search journey
-- [ ] Thank community
-- [ ] Convert visibility → interviews
+- [ ] ❌ DON'T share job search journey publicly
+- [ ] Continue building technical reputation
+- [ ] Start private outreach to recruiters (via DM/email)
 
 ---
 
@@ -475,8 +578,14 @@ PhD Candidate, AI | Universitat Politècnica de Catalunya
 - Help others genuinely
 - Build real relationships
 
-**Your goal isn't to become an influencer.**  
-**Your goal is to be visible to the right 50 people.**
+**Stealth > Obvious**
+- Frame as professional development, not job hunting
+- Gradual LinkedIn updates, not overnight changes
+- Private applications, not public announcements
+- Credit current company, don't burn bridges
 
-🚀 **Start building your online presence today!**
+**Your goal isn't to become an influencer.**  
+**Your goal is to be visible to the right 50 people WITHOUT alerting your current employer.**
+
+🕵️ **Build your presence quietly, apply privately, announce publicly only after you have an offer.**
 
