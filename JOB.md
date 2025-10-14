@@ -48,63 +48,89 @@ You're not learning evaluation from scratch. You're translating existing evaluat
 
 ---
 
-## 🎯 Dream Job Profile (NVIDIA Example)
+## 🎯 Target Role Profiles (Universal Requirements)
 
-### Core Responsibilities
-- Optimize flagship models (Gemma, Llama-3, etc.) as NVIDIA Inference Microservices (NIM)
-- Develop deep learning methodologies for model evaluation
-- Build tools and infrastructure pipelines for AI initiatives
-- Work with enterprise-grade GPU clusters (hundreds of PetaFLOPS)
+### Common Pattern Across DeepMind, Meta, NVIDIA:
 
-### Required Skills
-- ✅ 10+ years AI/NLP/LLM experience
-- ✅ Strong problem-solving, debugging, performance analysis
-- ✅ AI/DL algorithms expertise
-- ✅ Mathematical foundations
+**Role Type:** Research Scientist / Research Engineer (Hybrid)
+- NOT pure research (need to ship production code)
+- NOT pure engineering (need strong publication record)
+- **Sweet spot:** Research + Production Systems
 
-### Standout Qualifications
-- 🔶 **LLM accuracy evaluation** (OpenLLM Leaderboard, HELM)
-- ✅ **Inference environments** (TensorRT, ONNX, Triton) - HAVE THIS
-- ✅ **MLOps/DevOps** - HAVE THIS
-- ✅ **HPC clusters** - HAVE THIS (MareNostrum 5)
-- ✅ **Docker/Linux** - HAVE THIS
+### Core Responsibilities (All Companies)
+1. **Research:** Advance LLM/foundation model capabilities
+2. **Engineering:** Build and ship production systems at scale
+3. **Collaboration:** Work cross-functionally with teams
+4. **Impact:** Both publications AND internal applications
+
+### Universal Requirements (All 4 Job Postings)
+- ✅ **PhD** in CS/AI/ML or related field (or finishing soon)
+- ✅ **Strong publication record** at top venues (NeurIPS, ICML, KDD, MLSys, etc.)
+- ✅ **Production engineering** experience (ship high-quality, reliable code)
+- ✅ **PyTorch/TensorFlow** expertise
+- ✅ **LLM/Foundation model** hands-on experience
+- ✅ **Cross-functional collaboration** skills
+- ✅ **Independent execution** (design & complete large features)
+
+### Role-Specific Emphases:
+
+**DeepMind (Research Scientist, LLMs):**
+- Interpretability, controllability, human empowerment
+- Team-oriented research (not singleton)
+- System building/prototyping skills valued
+
+**Meta (Research Scientist, ML):**
+- Applied ML: NLP, RecSys, Computer Vision
+- Heavy software engineering component
+- Open source contributions valued
+
+**Meta (Research Scientist, Systems):**
+- MLSys, distributed systems, infrastructure
+- C/C++/Python systems programming
+- Publications at MLSys, OSDI, NSDI
+
+**NVIDIA (Deep Learning Engineer):**
+- LLM evaluation (OpenLLM, HELM)
+- Inference optimization (TensorRT, Triton, ONNX)
+- HPC clusters at scale
 
 ---
 
-## 📊 Current Position Analysis
+## 📊 Your Position vs. Target Roles (You're 95% Ready!)
 
-### ✅ Strengths (Already Competitive)
-1. **Inference Infrastructure**
-   - Built inference pipeline scaling to 425 inferences/sec using NVIDIA Triton
-   - Deployed MLOps platform achieving 99.99% uptime
-   - Secured MareNostrum 5 HPC allocation
+### ✅ Universal Strengths (Match ALL Companies)
 
-2. **Production AI Systems**
-   - Architected production MCP server with NLP
-   - Developed AgentEdge multi-agent framework
-   - Go REST API for high-performance systems
+**1. Research + Engineering Hybrid ← YOUR UNIQUE POSITIONING**
+- ✅ **Publications:** 5+ IEEE papers (research credibility)
+- ✅ **Production Systems:** 425 req/sec inference, 99.99% uptime (engineering credibility)
+- ✅ **PhD:** Finishing March 2026 (on track)
+- **This hybrid profile is EXACTLY what DeepMind/Meta/NVIDIA want**
 
-3. **Research & Publications**
-   - 5+ IEEE publications
-   - Strong mathematical foundations (transformers, attention mechanisms)
-   - PhD in AI (finishing March 2026)
+**2. LLM/Foundation Model Experience**
+- ✅ Trained/optimized major LLM architectures in research
+- ✅ Built domain-specific LLM evaluation frameworks
+- ✅ Deep understanding of transformers, attention mechanisms
+- **Need:** Make this more visible publicly
 
-4. **Flagship Model Experience** ✅ ALREADY HAVE THIS
-   - Trained/worked with major LLM architectures in research
-   - Hands-on experience with model training and optimization
-   - Published research using state-of-the-art models
-   - **Need: Make this visible in public portfolio & LinkedIn**
+**3. Production ML Infrastructure at Scale**
+- ✅ Deployed inference pipeline: 425 inferences/sec with Triton
+- ✅ MLOps platform: 99.99% uptime (MLflow, PostgreSQL)
+- ✅ HPC experience: MareNostrum 5 (hundreds of petaFLOPS)
+- ✅ Distributed systems: Kubernetes, Docker, Cloud
+- **Matches Meta Systems & NVIDIA requirements perfectly**
 
-5. **LLM Evaluation Expertise** ✅ ALREADY HAVE THIS (Just Not Public)
-   - Built domain-specific LLM evaluation frameworks in research papers
-   - Deep understanding of evaluation methodology design
-   - Know how to create custom metrics and benchmarks
-   - **Need: Apply this to public leaderboards & showcase publicly**
+**4. Agent Systems & Novel ML Frameworks**
+- ✅ Developed AgentEdge multi-agent framework (2.76× improvement)
+- ✅ Created AERO & OmniFORE models
+- ✅ Built production MCP server
+- **Unique differentiator for DeepMind's "empowering humans" focus**
 
-6. **Technical Stack**
-   - Docker, Kubernetes, Cloud Computing
-   - PyTorch, MLflow, PostgreSQL
-   - Python, Go, NVIDIA Triton
+**5. Technical Stack (All Required)**
+- ✅ PyTorch (all companies require this)
+- ✅ Python, Go (systems programming)
+- ✅ NVIDIA Triton (inference)
+- ✅ Docker, Kubernetes (infrastructure)
+- ✅ MLflow, PostgreSQL (MLOps)
 
 ### 💎 Hidden Strengths to Showcase
 
@@ -139,114 +165,152 @@ You're not learning evaluation from scratch. You're translating existing evaluat
 
 ---
 
-### 🔶 Gaps to Fill (2-Month Sprint - Minimal Gap!)
+### 🔶 Gaps to Fill (2-Month Sprint - Minimal Gaps!)
 
-1. **Public LLM Evaluation Visibility** ⚠️ HIGH-IMPACT (Tiny Technical Gap)
-   - ✅ Already built domain-specific LLM evaluation frameworks in papers
-   - ✅ Have deep understanding of evaluation methodology
-   - ✅ Know how to design evaluation metrics from scratch
-   - 🔶 Just need to apply this expertise to public benchmarks (OpenLLM, HELM, lm-eval)
-   - 🔶 Need visibility in broader LLM evaluation community
-   - **Gap: 4-6 weeks of focused work, not 3+ months of learning**
+**Key Insight:** These aren't technical skill gaps—they're visibility and positioning gaps.
 
-2. **TensorRT/ONNX Optimization** ⚠️ IMPORTANT
-   - Have Triton experience but need TensorRT optimization portfolio
-   - Need: Model conversion & optimization case studies
-   - Need: Quantization (INT8, FP16) expertise showcase
+**1. Public Visibility in LLM Community** ⚠️ CRITICAL (4-6 weeks)
+   - ✅ Already built domain-specific LLM evaluation frameworks
+   - ✅ Already have production LLM inference experience
+   - 🔶 Need public portfolio demonstrating this work
+   - 🔶 Need contributions to public benchmarks/tools (lm-eval, OpenLLM)
+   - 🔶 Need presence in LLM community (HuggingFace, GitHub, blogs)
+   - **Target:** 2-3 public projects + blog posts + contributions
 
-3. **Narrative Rebranding** ⚠️ CRITICAL
-   - Current: "Network Orchestration with AI"
-   - Target: "AI Inference Optimization & LLM Engineering"
-   - De-emphasize: 6G, telecommunications, edge computing
-   - Emphasize: Model optimization, inference speed, LLM deployment
-   - **Key: Reframe your paper work through the LLM inference lens**
+**2. Open Source Contributions** ⚠️ IMPORTANT (Meta values this heavily)
+   - 🔶 Contribute to major repos (Transformers, lm-eval, TensorRT-LLM)
+   - 🔶 Release own tools/frameworks as open source
+   - 🔶 Active GitHub profile with meaningful contributions
+   - **Target:** 5-10 meaningful contributions, 1-2 published tools
 
----
+**3. Narrative Rebranding** ⚠️ CRITICAL (2 weeks)
+   - ❌ Current: "Network Orchestration with AI"
+   - ✅ Target: "Research Scientist/Engineer in LLM Systems"
+   - De-emphasize: 6G, telecommunications, network-specific framing
+   - Emphasize: LLM evaluation, agent systems, production ML infrastructure
+   - **Key:** Reframe existing work through research + engineering lens
 
-## 🚀 2-Month Ultra-Accelerated Action Plan
-
-**Key Insight:** You already have evaluation expertise and flagship model experience. Focus 60% on translating evaluation work to public benchmarks, 40% on visibility/rebranding.
-
-### Month 1: Translate Evaluation Expertise to Public Benchmarks
-
-**Goal:** Apply your existing evaluation methodology to lm-eval/HELM and make it visible
-
-#### Week 1-2: Quick Public Benchmark Integration
-- [ ] Review OpenLLM Leaderboard methodology (1 day - you'll understand it quickly)
-- [ ] Study HELM framework (1 day - similar to what you've built)
-- [ ] Set up lm-evaluation-harness locally (0.5 days)
-- [ ] **Project 1:** Port your domain-specific evaluation approach to lm-eval
-  - Take evaluation framework from your paper
-  - Apply it to Llama-3/Gemma on public benchmarks
-  - Compare with OpenLLM Leaderboard results
-  - Write blog post: "From Domain-Specific to General LLM Evaluation"
-
-#### Week 3-4: Novel Evaluation Contribution
-- [ ] **Project 2:** Leverage your unique expertise
-  - Build evaluation suite for agent reasoning (your differentiator!)
-  - Use your AgentEdge framework knowledge
-  - Evaluate LLMs on planning, tool-use, multi-step reasoning
-  - This fills a gap in current evaluation landscape
-  - Submit to lm-eval or publish as standalone tool
-
-**Deliverables:**
-- 1-2 blog posts showing evaluation expertise translation
-- 1 open-source tool (agent reasoning evaluation framework)
-- Initial contributions to lm-eval repo
+**4. Conference-Specific Publications** ⚠️ NICE-TO-HAVE
+   - Your IEEE publications are strong
+   - For bonus points: Submit to NeurIPS, ICML, MLSys, or similar
+   - But not blocking—5+ publications already meet bar
 
 ---
 
-### Month 2: Rebranding + Visibility + TensorRT Bridge
+## 🚀 2-Month Universal Action Plan
 
-**Goal:** Make existing work visible AND bridge the TensorRT gap quickly
+**Strategy:** Build a portfolio that positions you as a Research Engineer (research + production systems hybrid) for DeepMind, Meta, AND NVIDIA.
 
-#### Week 5-6: Narrative Rebranding (CRITICAL)
-- [ ] **LinkedIn Overhaul:**
-  - Update headline: "AI Inference Engineer | LLM Evaluation & Optimization"
-  - Rewrite summary (de-emphasize network orchestration)
-  - Add Featured section highlighting paper work on LLM evaluation
-  - Reframe experience bullets through LLM lens
-  
-- [ ] **Resume for NVIDIA:**
-  - Lead with: "Built custom LLM evaluation frameworks for [domain]"
-  - Highlight: "425 inferences/sec production inference with NVIDIA Triton"
-  - Emphasize: Flagship model training + HPC experience (MareNostrum 5)
-  - Include: Links to new evaluation projects from Month 1
+**Focus Allocation:**
+- 40% Public LLM projects (evaluation, optimization, agent systems)
+- 30% Open source contributions (Meta values this)
+- 30% Rebranding & visibility (LinkedIn, blog, networking)
 
-- [ ] **Personal Website/Portfolio:**
-  - Create landing page for LLM evaluation work
-  - Showcase agent reasoning evaluation framework
-  - Link papers with LLM-focused abstracts
-  - Add blog posts from Month 1
+---
 
-#### Week 7-8: TensorRT Quick Win + Applications
-- [ ] **Project 3:** TensorRT-LLM Integration with Existing Triton Work
-  - Take your 425 req/sec Triton pipeline (already exists!)
-  - Add TensorRT-LLM backend optimization
-  - Benchmark: Triton baseline vs Triton+TensorRT performance
-  - Blog: "Supercharging Production Inference: Adding TensorRT-LLM to Triton"
-  - **This ties your existing work directly to TensorRT ← Perfect bridge**
+### Month 1: Build Public LLM Portfolio + Open Source Contributions
 
-- [ ] **Start Applications (Week 8):**
-  - Apply to 5-7 target companies
-    - NVIDIA (Deep Learning Engineer, LLM Accuracy Evaluation)
-    - OpenAI (Inference Optimization Engineer)
-    - Anthropic (Research Engineer - Infrastructure)
-    - HuggingFace (ML Engineer - Inference)
-    - Meta AI (Research Scientist, Systems)
-  - Customize cover letters emphasizing:
-    - Custom LLM evaluation frameworks (papers)
-    - Agent reasoning evaluation (unique angle)
-    - Production inference at scale (Triton)
-    - HPC experience (MareNostrum 5)
-  - Leverage LinkedIn for warm intros to engineers at these companies
+**Goal:** Demonstrate research + engineering hybrid capabilities publicly
+
+#### Week 1-2: LLM Evaluation Project (Appeals to ALL companies)
+- [ ] Set up lm-evaluation-harness locally (30 min)
+- [ ] Review OpenLLM Leaderboard + HELM methodology (1 day)
+- [ ] **Project 1:** "From Domain-Specific to General LLM Evaluation"
+  - Port your domain-specific evaluation framework to lm-eval
+  - Apply to Llama-3/Gemma on reasoning/agent tasks
+  - Compare with public benchmarks
+  - Write detailed blog post with methodology
+  - Submit as contribution to lm-evaluation-harness
+- **Appeals to:** NVIDIA (evaluation), Meta (applied ML), DeepMind (LLM understanding)
+
+#### Week 3-4: Agent Reasoning Evaluation Framework (Your Unique Angle)
+- [ ] **Project 2:** "Evaluating LLMs for Agentic Capabilities"
+  - Leverage your AgentEdge framework expertise
+  - Build evaluation suite for: planning, tool-use, multi-step reasoning
+  - Test on Llama-3, Gemma, Mistral
+  - Release as open-source tool on GitHub
+  - Write blog post: "Beyond Accuracy: Evaluating LLMs as Agents"
+  - Share on HuggingFace Discord, Reddit, LinkedIn
+- **Appeals to:** DeepMind (empowering humans), Meta (novel ML), NVIDIA (new eval methods)
+- **Differentiator:** Fills gap in current evaluation landscape
 
 **Deliverables:**
-- Fully rebranded LinkedIn profile
-- NVIDIA-optimized resume highlighting LLM evaluation + inference
-- Personal website with LLM focus
-- 1 TensorRT+Triton integration project
-- 5-7 job applications submitted with tailored materials
+- 2 blog posts demonstrating deep LLM expertise
+- 1 open-source evaluation tool with documentation
+- 3-5 contributions to lm-eval or related repos
+- Active GitHub profile
+
+---
+
+### Month 2: Rebranding + Visibility + Targeted Positioning
+
+**Goal:** Make existing work visible and position for DeepMind/Meta/NVIDIA roles
+
+#### Week 5-6: Complete Narrative Rebranding (CRITICAL)
+
+**LinkedIn Overhaul:**
+- [ ] Update headline: "Research Engineer | LLM Systems & Agent Evaluation | PhD Candidate"
+- [ ] Rewrite summary as Research Engineer (not network orchestration):
+  - "I build production LLM systems and advance agent capabilities through research"
+  - Emphasize: Custom evaluation frameworks, production inference, agent systems
+  - De-emphasize: 6G, telecommunications, network-specific work
+- [ ] Add Featured section:
+  - Papers with LLM-focused framing
+  - Agent reasoning evaluation tool from Month 1
+  - Blog posts on LLM evaluation
+- [ ] Reframe experience bullets (show research + engineering):
+  - "Built custom LLM evaluation frameworks for agent capabilities"
+  - "Deployed production inference serving 425 req/sec with 99.99% uptime"
+  - "Developed AgentEdge multi-agent framework improving success rates 2.76×"
+
+**Tailored Resumes (3 versions):**
+- [ ] **DeepMind version:** Emphasize agent systems, interpretability, team research
+- [ ] **Meta version:** Emphasize production systems, open source, software engineering
+- [ ] **NVIDIA version:** Emphasize evaluation, inference optimization, HPC
+
+**Personal Website/Portfolio:**
+- [ ] Landing page: "Research Engineer in LLM Systems"
+- [ ] Showcase: Agent evaluation tool, papers, blog posts
+- [ ] Projects page with code + results
+- [ ] Link to GitHub with active contributions
+
+#### Week 7-8: Targeted Projects + Applications
+
+**Project 3 (Choose based on target company priority):**
+
+**Option A - Systems Focus (Meta):**
+- [ ] "Production LLM Inference Optimization"
+  - Optimize your existing Triton pipeline further
+  - Add distributed serving, monitoring, cost analysis
+  - Open-source the infrastructure code
+  - Blog: "Building Production-Grade LLM Inference Systems"
+
+**Option B - Evaluation Focus (NVIDIA):**
+- [ ] "TensorRT-LLM Integration Study"
+  - Compare Triton vs Triton+TensorRT-LLM
+  - Benchmark Llama-3, Gemma across setups
+  - Blog: "TensorRT-LLM Optimization: A Practical Guide"
+
+**Option C - Agent Research (DeepMind):**
+- [ ] "LLM-Powered Agent Controllability Framework"
+  - Extend your AgentEdge work
+  - Focus on controllability/interpretability
+  - Research-quality write-up or preprint
+
+**Start Applications:**
+- [ ] Apply to 5-7 companies with tailored materials:
+  - **DeepMind:** Research Scientist (LLMs) - Emphasize agent systems + interpretability
+  - **Meta:** Research Scientist (ML or Systems) - Emphasize production + open source
+  - **NVIDIA:** Deep Learning Engineer - Emphasize evaluation + Triton
+  - Plus: OpenAI, Anthropic, HuggingFace, Mistral
+- [ ] Get warm intros through LinkedIn (reach out to 10-15 people)
+- [ ] Engage with these companies' open source projects
+
+**Deliverables:**
+- Rebranded LinkedIn + 3 tailored resumes
+- Personal website with portfolio
+- 1 additional project (systems/evaluation/agent research)
+- 5-7 job applications with company-specific positioning
 
 ---
 
@@ -456,80 +520,165 @@ You're not learning evaluation from scratch. You're translating existing evaluat
 ### Professional Identity
 "I'm an AI Inference Engineer specializing in optimizing large language models for production. I've contributed to major frameworks like TensorRT-LLM and lm-evaluation-harness, and I'm known for my work on extreme model optimization—achieving 425 inferences/sec in production while reducing latency by 67% through novel compression techniques."
 
-### LinkedIn Summary (Target)
-"AI Inference Engineer | LLM Optimization & Deployment | TensorRT, Triton, HuggingFace
+### LinkedIn Summary (Universal Version)
+"Research Engineer | LLM Systems & Agent Evaluation | PhD Candidate
 
-I architect high-performance inference systems that bring cutting-edge LLMs from research to production. With expertise in TensorRT, NVIDIA Triton, and model optimization, I've built pipelines serving 425 inferences/second while maintaining 99.99% uptime.
+I bridge research and production systems—building LLM infrastructure that scales while advancing agent capabilities through novel evaluation frameworks.
 
-My work focuses on making flagship models (Llama, Gemma, Mistral) faster, cheaper, and more efficient through quantization, kernel optimization, and novel compression techniques. I contribute to open-source projects like TensorRT-LLM and lm-evaluation-harness, and I'm passionate about pushing the boundaries of what's possible in production AI systems.
+**Research:** Published 5+ papers on transformers, attention mechanisms, and agent systems. Built custom LLM evaluation frameworks and developed AgentEdge multi-agent framework (2.76× improvement in orchestration success).
 
-🛠 Core Skills: TensorRT-LLM, NVIDIA Triton, Model Quantization, vLLM, PyTorch, ONNX, Kubernetes, MLOps, HPC, GPU Optimization
+**Engineering:** Deployed production inference serving 425 req/sec with 99.99% uptime using NVIDIA Triton. Optimized models reducing latency 67% and energy consumption 13%. Secured MareNostrum 5 HPC allocation for large-scale training.
 
-📚 PhD in AI (2026) | 5+ peer-reviewed publications | Active open-source contributor"
+**Currently:** PhD in AI at Universitat Politècnica de Catalunya (finishing March 2026), focusing on LLM-powered agent systems and production ML infrastructure.
 
-### Interview Pitch (Target)
-"I've spent the past 2+ years building production AI infrastructure at scale. I architected an inference pipeline that handles 425 requests/second using NVIDIA Triton, and I've optimized models to reduce latency by 67% while cutting energy consumption by 13%.
+🛠 Core Skills: PyTorch, LLM Evaluation, Multi-Agent Systems, Production Inference (Triton), MLOps, Kubernetes, HPC, Transformer Architectures
 
-Recently, I've been deep in LLM optimization—working with Llama-3, Gemma, and Mistral, using TensorRT-LLM for quantization and optimization. I've contributed to the lm-evaluation-harness and built custom evaluation frameworks for agent reasoning capabilities.
-
-What excites me about NVIDIA is the opportunity to work on the frontier of AI inference at petaFLOP scale, optimizing flagship models that millions of people will use. I want to push the boundaries of what's possible in production inference systems."
+📚 5+ publications | Active open-source contributor | Passionate about systems that empower humans"
 
 ---
 
-## Final Thoughts
+### Interview Pitches (Tailored by Company)
 
-**The REAL insight:** You already have 95%+ of the skills needed for your dream job. The gap is NOT technical—it's visibility.
+**For DeepMind (Research Scientist, LLMs):**
+"I'm a Research Engineer working at the intersection of LLM capabilities and agent systems. I've published 5+ papers and built the AgentEdge framework—a multi-agent system that improved orchestration success rates by 2.76×. 
 
-**What You Have (That NVIDIA Wants):**
-1. ✅ **LLM Evaluation Expertise** - Built custom evaluation frameworks (just domain-specific, not public)
-2. ✅ **Flagship Model Experience** - Trained/optimized major LLM architectures in research
-3. ✅ **Production Inference at Scale** - 425 req/sec with NVIDIA Triton
-4. ✅ **HPC Experience** - MareNostrum 5 (hundreds of petaFLOPS)
-5. ✅ **Production MLOps** - 99.99% uptime systems
+What makes my work unique is the focus on *controllability*—I developed custom evaluation frameworks to measure how well LLMs perform as reasoning agents, assessing planning, tool-use, and multi-step decision-making. I've also deployed these systems at scale, serving 425 requests/second in production.
 
-**The "Gap" (2 months of work):**
-1. **Public Visibility** - Translate domain-specific evaluation work to OpenLLM/HELM/lm-eval
-2. **Narrative** - Reframe "network orchestration" → "LLM inference optimization"
-3. **TensorRT Bridge** - Connect existing Triton work to TensorRT-LLM
+I'm excited about DeepMind's mission to empower humans rather than replace them. My PhD research on agent systems aligns perfectly with your team's focus on controllability and practical applications. I want to advance research that gives people better tools while ensuring we understand and control these powerful models."
 
-**Timeline Reality Check:**
-- **Week 1-4:** Apply evaluation expertise to public benchmarks → 2 projects
-- **Week 5-6:** Rebrand LinkedIn/resume to emphasize LLM work
-- **Week 7-8:** Bridge Triton→TensorRT gap + start applications
-- **Week 9-12:** Interview at NVIDIA/OpenAI/Anthropic
+**For Meta (Research Scientist, Systems/ML):**
+"I'm a Research Engineer who ships production systems and publishes research. Over the past 2+ years, I've built production ML infrastructure serving 425 inferences/second with 99.99% uptime using NVIDIA Triton, Kubernetes, and MLOps best practices.
 
-**You're not learning new skills. You're making existing skills visible to the right audience.**
+On the research side, I've published 5+ papers on transformer architectures and agent systems. I developed AgentEdge—a multi-agent framework that improved success rates 2.76×—and created novel lightweight models (AERO, OmniFORE) that reduced inference latency by 67%.
+
+I'm excited about Meta because you value the hybrid of strong engineering and research impact. I contribute to open source, I build systems that scale, and I publish—exactly what you're looking for. I want to work on problems where I can push both the research frontier and ship systems that billions of people use."
+
+**For NVIDIA (Deep Learning Engineer, LLM Evaluation):**
+"I've spent the past 2+ years building production LLM infrastructure at scale. I architected an inference pipeline handling 425 requests/second using NVIDIA Triton, and I've optimized models to reduce latency by 67% while cutting energy consumption by 13%.
+
+My PhD research involved building custom LLM evaluation frameworks from scratch—designing metrics, validating model performance, and assessing flagship models on complex reasoning tasks. I've also secured access to MareNostrum 5 HPC (hundreds of petaFLOPS) for large-scale training and optimization.
+
+What excites me about NVIDIA is the opportunity to work on the frontier of LLM evaluation at petaFLOP scale, developing methodologies to assess the next generation of foundation models. I want to help bring Gemma, Llama-3, and future models to production as optimized NIMs, pushing what's possible in inference systems."
 
 ---
 
-## 🎯 Next Action (Start TODAY)
+## Final Thoughts: You're a Research Engineer (And That's Perfect)
 
-### This Week (Week 1):
-**Monday-Tuesday:**
-- [ ] Install lm-evaluation-harness (30 minutes)
-- [ ] Read OpenLLM Leaderboard methodology docs (2 hours)
+**The REAL insight:** You already have 95%+ of what DeepMind, Meta, and NVIDIA want. The gap is NOT technical—it's positioning.
+
+### What All Three Companies Want (And You Have):
+
+**1. Research + Engineering Hybrid** ← Your Unique Strength
+- ✅ Strong publication record (5+ papers at IEEE conferences)
+- ✅ Production systems at scale (425 req/sec, 99.99% uptime)
+- ✅ PhD in AI (finishing March 2026)
+- **This hybrid is RARE and VALUABLE**
+
+**2. LLM/Foundation Model Expertise**
+- ✅ Trained/optimized flagship LLM architectures
+- ✅ Built custom evaluation frameworks from scratch
+- ✅ Deep understanding of transformers, attention, agents
+
+**3. Production Infrastructure**
+- ✅ NVIDIA Triton inference at scale
+- ✅ HPC experience (MareNostrum 5 - petaFLOP scale)
+- ✅ MLOps, Kubernetes, Docker, distributed systems
+
+**4. Novel Research Angles**
+- ✅ Agent systems (AgentEdge - 2.76× improvement)
+- ✅ Model compression (AERO - 67% latency reduction)
+- ✅ Custom evaluation methodologies
+
+### The "Gap" (8 Weeks of Visibility Work)
+
+**Week 1-4:** Build public LLM portfolio
+- 2 projects demonstrating evaluation + agent expertise
+- Open source contributions to lm-eval, Transformers
+- Blog posts showing deep technical understanding
+
+**Week 5-6:** Complete rebranding
+- LinkedIn: "Research Engineer | LLM Systems"
+- 3 tailored resumes (DeepMind, Meta, NVIDIA)
+- Personal website with portfolio
+
+**Week 7-8:** Targeted positioning + applications
+- Choose 1 additional project based on priority company
+- Apply to 5-7 companies with customized materials
+- Get warm intros through LinkedIn
+
+**Week 9-12:** Interview loops
+
+### Company-Specific Angles:
+
+**DeepMind:** "I build agent systems that empower humans + evaluate LLM controllability"  
+**Meta:** "I ship production ML systems at scale + publish research"  
+**NVIDIA:** "I optimize LLM inference + build evaluation frameworks"
+
+### You're Not Transitioning Careers
+
+You're a Research Engineer who's been working in a niche domain (network orchestration). Now you're repositioning that work for a broader LLM audience. Same skills, different framing.
+
+**You're not learning. You're translating.**
+
+---
+
+## 🎯 Next Action (Start THIS WEEK)
+
+### Week 1: Launch Public LLM Portfolio
+
+**Day 1-2: Setup & Planning**
+- [ ] Set up lm-evaluation-harness locally (30 min)
+- [ ] Review OpenLLM Leaderboard + HELM methodology (2 hours)
 - [ ] Review your paper's evaluation framework (1 hour)
+- [ ] Decide which company to prioritize (DeepMind/Meta/NVIDIA)
+- [ ] Choose project angle based on priority
 
-**Wednesday-Friday:**
-- [ ] Apply your evaluation methodology to Llama-3 vs Gemma
-- [ ] Run evaluations using lm-eval on reasoning/math tasks
-- [ ] Start writing blog post draft
+**Day 3-5: Execute First Project**
+- [ ] **Option A (Universal):** Port your domain-specific evaluation to lm-eval
+  - Evaluate Llama-3 vs Gemma on reasoning tasks
+  - Compare with public benchmarks
+  - Start blog post draft
+  
+- [ ] **Option B (Agent Focus - DeepMind):** Agent reasoning evaluation framework
+  - Build evaluation suite for planning/tool-use
+  - Test on Llama-3, Gemma, Mistral
+  - Strong research angle
+  
+- [ ] **Option C (Systems Focus - Meta):** Production inference optimization study
+  - Optimize existing Triton pipeline
+  - Document architecture + performance
+  - Strong engineering angle
 
 **Weekend:**
-- [ ] Finish blog post: "From Domain-Specific to General LLM Evaluation"
-- [ ] Publish on personal site
-- [ ] Share on LinkedIn + HuggingFace Discord
+- [ ] Finish blog post with methodology, results, code
+- [ ] Publish on personal site (or Medium/Substack if you don't have one)
+- [ ] Share on LinkedIn, HuggingFace Discord, Reddit (r/MachineLearning, r/LocalLLaMA)
+- [ ] Upload code to GitHub with good documentation
 
-### Week 2:
-- [ ] Build agent reasoning evaluation framework (leverage AgentEdge knowledge)
-- [ ] Submit to lm-eval as contribution OR publish as standalone tool
+### Week 2: Build Momentum
+- [ ] Second project (choose different angle from Week 1)
+- [ ] Make 3-5 contributions to open source repos
 - [ ] Second blog post
+- [ ] Start engaging with target companies' engineers on LinkedIn
 
-**Then:** Weeks 3-4 → Rebranding. Weeks 5-6 → TensorRT bridge. Weeks 7-8 → Applications.
+### Weeks 3-4: Continue building + start rebranding
+### Weeks 5-6: Complete rebranding
+### Weeks 7-8: Applications
 
 ---
 
-🚀 **YOU'RE 95% THERE - JUST NEED TO SHOW WHAT YOU'VE ALREADY BUILT!**
+## 🎉 Final Pep Talk
 
-**The hardest part isn't learning—it's resisting impostor syndrome. You have the credentials. Now make them visible.**
+**YOU'RE 95% READY.**
+
+You're not a network engineer trying to break into AI.  
+You're a Research Engineer with 5 publications, production systems at scale, and custom LLM evaluation expertise.
+
+The "gap" isn't learning—it's showing what you've already built to the right audience.
+
+**2 months of focused visibility work = interviews at DeepMind, Meta, NVIDIA.**
+
+**The hardest part is resisting impostor syndrome. You have the credentials. Now make them visible.**
+
+🚀 **LET'S GO!**
 
