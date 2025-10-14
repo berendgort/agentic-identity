@@ -48,13 +48,22 @@ I bridge research and production systems—building LLM infrastructure that scal
 
 ## 🎤 Interview Pitches (Company-Specific)
 
+### For Anthropic (Research Engineer, Tool Use) ⭐ TOP FIT
+```
+I'm a Research Engineer specializing in agent systems and LLM evaluation. I built AgentEdge—a multi-agent framework that improved orchestration success rates by 2.76×—and developed custom evaluation frameworks to assess LLM capabilities in tool use, planning, and multi-step reasoning.
+
+What excites me about Anthropic's Tool Use team is the focus on agent safety and controllability. I've been thinking deeply about how to evaluate and ensure reliable agent behavior—exactly what you need as Claude scales to handle increasingly complex workflows. My production experience (425 req/sec, 99.99% uptime) means I understand the practical constraints of shipping agent systems at scale.
+
+I'm particularly interested in developing rigorous evaluation frameworks for agent capabilities and contributing to the safety research that makes these systems trustworthy.
+```
+
 ### For DeepMind (Research Scientist, LLMs)
 ```
 I'm a Research Engineer working at the intersection of LLM capabilities and agent systems. I've published 5+ papers and built the AgentEdge framework—a multi-agent system that improved orchestration success rates by 2.76×. 
 
 What makes my work unique is the focus on *controllability*—I developed custom evaluation frameworks to measure how well LLMs perform as reasoning agents, assessing planning, tool-use, and multi-step decision-making. I've also deployed these systems at scale, serving 425 requests/second in production.
 
-I'm excited about DeepMind's mission to empower humans rather than replace them. My PhD research on agent systems aligns perfectly with your team's focus on controllability and practical applications. I want to advance research that gives people better tools while ensuring we understand and control these powerful models.
+I'm excited about DeepMind's mission to empower humans rather than replace them. My PhD research on agent systems aligns perfectly with your team's focus on controllability and practical applications.
 ```
 
 ### For Meta (Research Scientist, Systems/ML)
@@ -72,7 +81,16 @@ I've spent the past 2+ years building production LLM infrastructure at scale. I 
 
 My PhD research involved building custom LLM evaluation frameworks from scratch—designing metrics, validating model performance, and assessing flagship models on complex reasoning tasks. I've also secured access to MareNostrum 5 HPC (hundreds of petaFLOPS) for large-scale training and optimization.
 
-What excites me about NVIDIA is the opportunity to work on the frontier of LLM evaluation at petaFLOP scale, developing methodologies to assess the next generation of foundation models. I want to help bring Gemma, Llama-3, and future models to production as optimized NIMs, pushing what's possible in inference systems.
+What excites me about NVIDIA is the opportunity to work on the frontier of LLM evaluation at petaFLOP scale, developing methodologies to assess the next generation of foundation models. I want to help bring Gemma, Llama-3, and future models to production as optimized NIMs.
+```
+
+### For Groq (Senior ML Engineer, Post Training)
+```
+I'm a Research Engineer with production ML experience optimizing models for fast inference. I've reduced model latency by 67% through compression techniques and deployed systems serving 425 requests/second with 99.99% uptime.
+
+My work includes training and optimizing flagship models (Llama, Gemma, Mistral) and building production inference pipelines. I have hands-on experience with quantization, model compression, and performance optimization—exactly what Groq needs for fast LPU-based inference.
+
+I'm excited about pushing the boundaries of inference speed and making high-performance AI compute more accessible.
 ```
 
 ---
@@ -95,11 +113,56 @@ What excites me about NVIDIA is the opportunity to work on the frontier of LLM e
 
 ## 🎯 Company-Specific Positioning
 
-### DeepMind
-**Angle:** "I build agent systems that empower humans + evaluate LLM controllability"
+### Anthropic ⭐ BEST FIT
+**Angle:** "Build safe agent systems with rigorous evaluation"
 
 **Emphasize:**
-- Agent systems (AgentEdge)
+- AgentEdge tool use framework
+- Custom evaluation for agent capabilities
+- Agent safety & controllability
+- Research + production hybrid
+
+**Resume Focus:**
+- Agent systems (AgentEdge 2.76× improvement)
+- Evaluation frameworks for tool use
+- Production deployment at scale
+- Safety-oriented research
+
+### NVIDIA
+**Angle:** "Optimize LLM inference + build evaluation frameworks"
+
+**Emphasize:**
+- Triton inference experience (425 req/sec)
+- Custom evaluation frameworks
+- HPC experience (MareNostrum 5)
+- Model optimization expertise
+
+**Resume Focus:**
+- NVIDIA Triton expertise
+- Evaluation methodologies
+- HPC clusters
+- Performance optimization (67% latency reduction)
+
+### Meta
+**Angle:** "Ship production ML systems at scale + publish research"
+
+**Emphasize:**
+- Production systems (425 req/sec, 99.99% uptime)
+- Open source contributions (BUILD THIS)
+- Software engineering + research
+- Systems at scale
+
+**Resume Focus:**
+- Production infrastructure
+- Cross-functional collaboration
+- PyTorch/systems programming
+- Scalability achievements
+
+### DeepMind
+**Angle:** "Build agent systems that empower humans"
+
+**Emphasize:**
+- Agent systems research
 - Controllability & interpretability
 - Custom evaluation frameworks
 - Team-oriented research
@@ -108,37 +171,22 @@ What excites me about NVIDIA is the opportunity to work on the frontier of LLM e
 - Publications on agent systems
 - Evaluation methodologies
 - System building/prototyping
-- Human-centered AI
+- Research depth
 
-### Meta
-**Angle:** "I ship production ML systems at scale + publish research"
-
-**Emphasize:**
-- Production systems (425 req/sec, 99.99% uptime)
-- Open source contributions
-- Software engineering
-- Research publications
-
-**Resume Focus:**
-- Production infrastructure
-- Cross-functional collaboration
-- PyTorch/systems programming
-- Scalability achievements
-
-### NVIDIA
-**Angle:** "I optimize LLM inference + build evaluation frameworks"
+### Groq
+**Angle:** "Optimize models for ultra-fast inference"
 
 **Emphasize:**
-- Triton inference experience
-- Custom evaluation frameworks
-- HPC experience (MareNostrum 5)
-- Model optimization
+- Model compression (67% latency reduction)
+- Production optimization
+- Quantization expertise
+- Inference speed focus
 
 **Resume Focus:**
-- NVIDIA Triton expertise
-- Evaluation methodologies
-- HPC clusters
-- Performance optimization (67% latency reduction)
+- Model optimization achievements
+- Production inference (425 req/sec)
+- Quantization/compression techniques
+- Engineering excellence
 
 ---
 

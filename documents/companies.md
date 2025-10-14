@@ -56,287 +56,169 @@ Concise analysis of 6 target companies and positioning strategy.
 
 ---
 
-## 📊 Quick Comparison
+## 📊 Detailed Company Profiles
 
-### 1. Google DeepMind
+### 1. Anthropic - AI Safety & Alignment
 
-**Role:** Research Scientist, Empowering Humans Using LLMs  
-**Location:** Seattle, WA
+**Roles:**
+- Research Scientist, Alignment Finetuning ($315-340K)
+- Research Engineer, Tool Use ($315-425K)
 
-**Focus Areas:**
-- Interpretability, controllability, human empowerment
-- Understanding LLMs with practical applications
-- Team-oriented research (not singleton)
-- Both internal impact AND external publications
-
-**Key Requirements:**
-- PhD in ML, statistics, or related
-- Strong publication record
-- Strong record in LLMs and foundation models
-- Engineering skills (end-to-end system building)
-- Strong communication skills
-
-**What They Value:**
-- Understanding models deeply (interpretability)
-- Controllability as dual problem
-- Team collaboration
-- Practical applications
-- Research that empowers people
+**What They Want:**
+- RLHF, alignment, constitutional AI
+- Tool use, agent safety, RL
+- Python interviews
+- Ship research to production
 
 **Your Positioning:**
-- Lead with: Agent systems + controllability
-- Emphasize: AgentEdge framework, custom evaluation
-- Highlight: "Empowering humans" through agent systems
-- Show: Research + system building hybrid
+- Lead with AgentEdge (tool use expertise)
+- Emphasize custom evaluation frameworks (alignment)
+- Highlight agent controllability work
+- Pitch: "Build safe agent systems with rigorous evaluation"
 
-**Pitch Angle:**
-"I build agent systems that empower humans and develop evaluation frameworks to ensure LLM controllability"
+**Perfect Fit:** Your agent systems work directly aligns with their tool use team
 
 ---
 
-### 2. Meta (Research Scientist, ML)
-
-**Role:** Research Scientist, Machine Learning (PhD)
-
-**Focus Areas:**
-- Applied ML: NLP, RecSys, Computer Vision
-- Heavy software engineering component
-- Building and shipping high-quality code
-- Open source contributions valued
-- Cross-functional partnerships
-
-**Key Requirements:**
-- PhD in CS/Engineering
-- PyTorch/TensorFlow experience
-- Experience building and shipping products
-- Systems software or algorithms
-- Translate insights into business recommendations
-- Design and complete features independently
-
-**Preferred:**
-- Open source contributions (GitHub)
-- First-authored publications at KDD, NeurIPS, ICML, ACL, CVPR
-- Python, R, MATLAB
-- Patents, grants, fellowships
-
-**What They Value:**
-- Strong engineering (ship production code)
-- Research publications
-- Open source contributions
-- Cross-functional work
-- Solving complex problems
-- Architectural patterns at scale
-
-**Your Positioning:**
-- Lead with: Production systems (425 req/sec, 99.99% uptime)
-- Emphasize: Software engineering + research publications
-- Highlight: Open source contributions (build this up)
-- Show: Ship high-quality, reliable systems
-
-**Pitch Angle:**
-"I ship production ML systems at scale and publish research—building systems that billions can use"
-
----
-
-### 3. Meta (Research Scientist, Systems and Infrastructure)
-
-**Role:** Research Scientist, Systems and Infrastructure (PhD)
-
-**Focus Areas:**
-- MLSys, distributed systems, infrastructure
-- C/C++/Python systems programming
-- Scalable computing
-- Performance optimization
-- Infrastructure systems
-
-**Key Requirements:**
-- Same base as ML role
-- Systems software focus
-- Programming languages (Python, C, C++)
-- Publications at MLSys, OSDI, NSDI, SIGMOD, VLDB, SIGCOMM, SOSP
-
-**What They Value:**
-- Systems engineering at scale
-- Distributed systems expertise
-- Performance optimization
-- Infrastructure patterns
-- Research in systems
-
-**Your Positioning:**
-- Lead with: Production inference infrastructure (Triton, Kubernetes)
-- Emphasize: Distributed systems, MLOps, HPC
-- Highlight: 425 req/sec, 99.99% uptime, MareNostrum 5
-- Show: Systems programming (Go, Python)
-
-**Pitch Angle:**
-"I build ML infrastructure at scale—production systems serving millions while advancing research"
-
----
-
-### 4. NVIDIA
+### 2. NVIDIA - Inference Optimization
 
 **Role:** Deep Learning Engineer, LLM Accuracy Evaluation
 
-**Focus Areas:**
-- LLM evaluation methodologies (OpenLLM, HELM)
-- Inference optimization (TensorRT, Triton, ONNX)
-- Model optimization (flagship models → NIMs)
-- HPC clusters at scale
-- DevOps/MLOps practices
-
-**Key Requirements:**
-- BS/MS/PhD in CS, AI, Applied Math
-- 10+ years AI/NLP/LLM experience (or equivalent)
-- Strong problem-solving, performance analysis
-- Mathematical foundations
-- AI/DL algorithms expertise
-
-**Standout Qualifications:**
-- LLM accuracy evaluation (OpenLLM, HELM) ← BUILD THIS
-- Inference environments (TensorRT, ONNX, Triton) ← HAVE THIS
-- DevOps/MLOps practices ← HAVE THIS
-- HPC clusters ← HAVE THIS
-- Docker/Linux ← HAVE THIS
-
-**What They Value:**
-- Evaluation methodologies
-- Inference optimization
-- Performance at scale
-- HPC experience
-- Production deployment
+**What They Want:**
+- OpenLLM/HELM evaluation experience
+- TensorRT/Triton/ONNX
+- HPC clusters
+- 10+ years AI/NLP/LLM
 
 **Your Positioning:**
-- Lead with: Custom LLM evaluation frameworks + Triton
-- Emphasize: HPC experience (MareNostrum 5)
-- Highlight: Production inference (425 req/sec), evaluation expertise
-- Show: Bridge existing Triton work to TensorRT
+- Lead with Triton experience (425 req/sec)
+- Emphasize custom evaluation frameworks
+- Highlight HPC (MareNostrum 5)
+- Pitch: "Build evaluation frameworks + optimize Triton inference"
 
-**Pitch Angle:**
-"I build LLM evaluation frameworks and optimize inference at scale using NVIDIA Triton"
-
----
-
-## 📊 Comparison Matrix
-
-| Aspect | DeepMind | Meta (ML) | Meta (Systems) | NVIDIA |
-|--------|----------|-----------|----------------|---------|
-| **Focus** | Research + Impact | Applied ML | Infrastructure | Evaluation + Optimization |
-| **Key Skill** | Interpretability | Production Code | Systems at Scale | Inference + Eval |
-| **Publications** | Critical | Important | Important | Nice-to-have |
-| **Engineering** | System Building | Heavy | Very Heavy | Critical |
-| **Open Source** | Nice-to-have | Valued Highly | Valued | Nice-to-have |
-| **Your Strength** | Agent Systems | 425 req/sec | Triton + K8s | Triton + Eval |
+**Strong Fit:** Triton experience is gold here
 
 ---
 
-## 🎯 Application Strategy
+### 3. Meta - Production ML
 
-### Priority Order (Based on Fit)
+**Roles:**
+- Research Scientist, ML ($280K+)
+- Research Scientist, Systems ($280K+)
 
-**Tier 1 (Apply First):**
-1. **NVIDIA** - Strong Triton experience + can build eval portfolio quickly
-2. **Meta (Systems)** - Perfect fit for production infrastructure background
-3. **DeepMind** - Agent systems align with their mission
+**What They Want:**
+- Production systems + publications
+- Open source contributions
+- PyTorch/C++/Python
+- Ship code that scales
 
-**Tier 2 (Apply After Portfolio):**
-4. **Meta (ML)** - After building open source portfolio
-5. OpenAI, Anthropic, HuggingFace (similar positioning)
+**Your Positioning:**
+- Lead with production systems (425 req/sec, 99.99% uptime)
+- Emphasize systems engineering
+- Build open source portfolio (critical!)
+- Pitch: "Ship production ML systems + publish research"
 
-### Timeline
-
-**Week 1-4:** Build portfolio (evaluation + agent projects)  
-**Week 5-6:** Rebrand + create 3 tailored resumes  
-**Week 7-8:** Apply to Tier 1 companies + warm intros  
-**Week 9-12:** Interview loops
+**Gap:** Need more public open source work
 
 ---
 
-## 📧 Warm Intro Strategy
+**Role:** Research Scientist, Empowering Humans Using LLMs (Seattle)
 
-### LinkedIn Outreach
-1. Find 10-15 engineers at each company
-2. Connect with personalized message
-3. Engage with their posts
-4. Ask for 15-min coffee chat
-5. Ask about team/role fit
+**What They Want:**
+- Interpretability, controllability
+- Team-oriented research
+- System building + publications
+- LLMs + practical applications
 
-### Message Template
+**Your Positioning:**
+- Lead with agent systems (empowering humans)
+- Emphasize controllability focus
+- Highlight research + prototyping
+- Pitch: "Build agent systems that empower humans through controllable LLMs"
+
+**Fit:** Strong research focus, good for long-term
+
+---
+
+### 5. Groq - Fast Inference
+
+**Role:** Senior ML Engineer, Post Training & Speculative Decoding ($176-308K)
+
+**What They Want:**
+- Model training (pre/post/continued)
+- Speculative decoding, quantization-aware training
+- Open-weight models (Llama, Mistral, Gemma)
+- Production optimization
+
+**Your Positioning:**
+- Lead with model optimization (67% latency reduction)
+- Emphasize production inference expertise
+- Highlight quantization/compression work
+- Pitch: "Optimize models for fast inference at scale"
+
+**Fit:** More engineering than research
+
+---
+
+### 6. HuggingFace - Open Source ML
+
+**Role:** Open-Source Machine Learning Engineer
+
+**What They Want:**
+- Transformers library expertise
+- Community engagement
+- Open source contributions
+- Developer-focused work
+
+**Your Positioning:**
+- Lead with evaluation tools for community
+- Emphasize open source contributions (need to build)
+- Highlight Transformers experience
+- Pitch: "Build evaluation tools for the ML community"
+
+**Gap:** Need stronger open source presence first
+
+---
+
+## 🎯 Application Priority
+
+### Phase 1 (Weeks 7-8): Apply to Top 3
+1. **Anthropic** (tool use role) - Best agent systems fit
+2. **NVIDIA** - Triton + evaluation expertise
+3. **Meta** - After building open source portfolio
+
+### Phase 2 (Weeks 9-10): Apply to Next 3
+4. **DeepMind** - Research-heavy, longer timeline
+5. **Groq** - Backup option, engineering focus
+6. **HuggingFace** - After strong open source portfolio
+
+---
+
+## 📧 Quick Outreach Template
+
 ```
 Hi [Name],
 
-I saw your work on [specific project/post] and it really resonated with me. I'm finishing my PhD in AI, focusing on LLM systems and agent evaluation, and I'm exploring opportunities at [Company].
+I'm finishing my PhD in AI, focusing on LLM evaluation and agent systems. I've built [production inference at 425 req/sec | custom evaluation frameworks | AgentEdge tool] and recently released [project link].
 
-I've built [brief relevant experience - e.g., "production inference systems serving 425 req/sec with Triton"] and recently released [project link].
+I'm exploring opportunities at [Company] and would love a quick chat about [specific team/project]. 15 minutes?
 
-Would you be open to a quick 15-minute chat about your experience at [Company] and how someone with my background might contribute?
-
-Thanks!
+Best,
 Berend
 ```
 
 ---
 
-## 🎯 Company-Specific Resume Tips
+## 🎯 Resume Emphasis by Company
 
-### All Companies
-- Lead with Research + Engineering hybrid
-- Quantify everything (425 req/sec, 2.76×, 67%)
-- Publications visible
-- PyTorch prominent
+| Company | Lead With | Emphasize | Pitch |
+|---------|-----------|-----------|-------|
+| **Anthropic** | AgentEdge | Tool use, evaluation | Safe agent systems |
+| **NVIDIA** | Triton 425/sec | Evaluation, HPC | Optimize + evaluate |
+| **Meta** | Production systems | Open source | Ship at scale |
+| **DeepMind** | Agent systems | Research, controllability | Empower humans |
+| **Groq** | Model optimization | Compression, inference | Fast inference |
+| **HuggingFace** | Evaluation tools | Open source | Community tools |
 
-### DeepMind
-- Publications at top of resume
-- Agent systems prominently featured
-- "Empowering humans" language
-- Interpretability/controllability angle
-
-### Meta
-- Production systems at top
-- "Shipped" language
-- Open source contributions section
-- Cross-functional collaboration
-
-### NVIDIA
-- Triton experience in first 2 bullets
-- Evaluation frameworks highlighted
-- HPC experience visible
-- Performance metrics prominent
-
----
-
-## ✅ Application Checklist
-
-For each company:
-- [ ] Tailored resume (emphasize relevant experience)
-- [ ] Company-specific cover letter
-- [ ] Research team/projects beforehand
-- [ ] Prepare 2-3 questions about the role
-- [ ] Have projects ready to discuss
-- [ ] Practice company-specific pitch
-
-**Materials Ready:**
-- [ ] 3 versions of resume
-- [ ] Portfolio website
-- [ ] GitHub with 2-3 projects
-- [ ] Blog posts published
-- [ ] LinkedIn updated
-
----
-
-## 🚀 Remember
-
-**Each company wants the same core:**
-- Research + Engineering hybrid
-- Publications + Production systems
-- LLM expertise
-- Cross-functional skills
-
-**You have all of this.**
-
-The difference is **emphasis**:
-- DeepMind → Agent systems + controllability
-- Meta → Production at scale + open source
-- NVIDIA → Evaluation + Triton + HPC
-
-🎯 **One profile, three angles!**
+🎯 **One profile, tailored emphasis per company!**
 

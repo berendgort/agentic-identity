@@ -1,6 +1,7 @@
 # Career Transition: Research Engineer in LLM Systems
 
-**Goal:** Position for Research Scientist/Engineer roles at DeepMind, Meta, NVIDIA  
+**Goal:** Position for Research Scientist/Engineer roles at top AI companies  
+**Target Companies:** Anthropic, NVIDIA, Meta, DeepMind, Groq, HuggingFace  
 **Timeline:** 2-3 months  
 **Status:** 95% ready - gap is visibility, not skills
 
@@ -49,10 +50,24 @@
 
 ## 🚀 Next Steps
 
-See [docs/strategy.md](docs/strategy.md) for detailed week-by-week plan.
+See [documents/strategy.md](documents/strategy.md) for detailed week-by-week plan.
 
 **Start this week:**
 1. Set up lm-evaluation-harness
-2. Choose first project (evaluation/agent/systems)
-3. Execute and ship within 7 days
+2. Build agent reasoning evaluation framework (Anthropic fit!)
+3. Ship project + blog post within 7 days
+
+---
+
+## 🎯 Company Priority
+
+**Phase 1 (Weeks 7-8):**
+1. **Anthropic** (Tool Use) - 95% fit, agent systems perfect match ⭐
+2. **NVIDIA** (LLM Evaluation) - 90% fit, strong Triton experience
+3. **Meta** (Systems) - 85% fit, need open source work
+
+**Phase 2 (Weeks 9-10):**
+4. DeepMind, Groq, HuggingFace
+
+See [documents/companies.md](documents/companies.md) for detailed analysis.
 
