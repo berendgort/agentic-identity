@@ -211,6 +211,14 @@ Designing profitable and reliable trading strategies is challenging in the highl
 
 ## Recommendations
 
+### Angelos Antonopoulos
+**Research and Innovation Director at Nearby Computing • PhD in Telecom • 5G/6G • AI/ML • Edge Computing**  
+**Managed Berend directly** · October 16, 2025
+
+> "Within our R&I team at Nearby Computing, Berend leads the end-to-end development of our autonomous orchestration stack (MLOps → predictions → agent layer → actions across edge infrastructures). He has implemented AgentEdge (our multi-agent framework), and established custom evaluation methodologies now embedded in our workflow. He also architected a high-throughput inference pipeline that leverages NVIDIA Triton, and continues to optimize the full stack for performance and reliability. Berend's work consistently shows rigor, scalability, and clear end-to-end accountability."
+
+---
+
 ### Xiao-Yang Liu
 **PhD, Columbia University in the City of New York**  
 **Managed Berend directly** · July 13, 2022
