@@ -219,6 +219,14 @@ Designing profitable and reliable trading strategies is challenging in the highl
 
 ---
 
+### Godfrey Kibalya, PhD
+**Nearby Computing**  
+**Worked with Berend on the same team** · November 13, 2025
+
+> "Berend is an exceptional colleague within the R&I team at Nearby Computing whose clear, empathetic communication and natural mentoring ability consistently elevate the people around him. He takes genuine initiative, stepping up to solve challenges before they surface and guiding others with patience and clarity. Beyond his technical skills and ownership, Berend contributes meaningfully to team culture, fostering collaboration, encouraging open dialogue, and creating an environment where everyone feels supported and motivated."
+
+---
+
 ### Xiao-Yang Liu
 **PhD, Columbia University in the City of New York**  
 **Managed Berend directly** · July 13, 2022
