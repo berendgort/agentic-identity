@@ -35,6 +35,7 @@ I contribute to open source and write about what I learn. Let's connect if you'r
 **Mar 2023 - Present** · 2 yrs 8 mos  
 **Location:** Barcelona, Catalonia, Spain · Hybrid
 
+➢ Built AgentOne multi-MCP agentic orchestration system for autonomous infrastructure management
 ➢ Architected production MCP server for LLM tool-use abstracting APIs and reducing complexity  
 ➢ Developed AgentEdge LLM-powered multi-agent framework with 2.76× higher success rates  
 ➢ Created AERO lightweight model for LLM inference reducing latency by 67% and energy use by 13%  
